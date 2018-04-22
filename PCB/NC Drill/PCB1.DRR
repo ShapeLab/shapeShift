@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB1.CMPcbDoc   4/12/2017  10:04:08 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          728              125.17 Inch (3179.41 mm)
+T2        20mil (0.508mm)          Round          7                1.06 Inch (26.86 mm)
+T3        118mil (2.9972mm)        Round          16               32.17 Inch (817.19 mm)
+---------------------------------------------------------------------------
+Totals                                            751              158.40 Inch (4023.46 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
