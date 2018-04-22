@@ -4,9 +4,7 @@
 
 shapeShift is a compact, high-resolution (7 mm pitch), mobile tabletop shape display. We explore potential interaction techniques in both passive and active mobile scenarios. In the passive case, the user is able to freely move and spin the display as it renders elements. We introduce use cases for rendering lateral I/O elements, exploring volumetric datasets, and grasping and manipulating objects. On an active omnidirectional-robot platform, shapeShift can display moving objects and provide both vertical and lateral kinesthetic feedback. We use the active platform as an encounter-type haptic device combined with a head-mounted display to dynamically simulate the presence of virtual content. Future work will continue to explore the diverse dynamic interactions afforded by high-fidelity mobile shape-changing interfaces. 
 
-[Watch a video](https://www.youtube.com/embed/Z6LSsJoDdtY/0.jpg)
-
-or read more at the [shape lab website](http://shape.stanford.edu/research/shapeShift/)
+[Watch a video](https://www.youtube.com/embed/Z6LSsJoDdtY/0.jpg) or read more at the [shape lab website](http://shape.stanford.edu/research/shapeShift/)
 
 ### Technical Implementation
 <p align="center">
