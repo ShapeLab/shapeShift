@@ -19,8 +19,8 @@ Read more at the [shape lab website](http://shape.stanford.edu/research/shapeShi
 CAD, PCB, firmware and software files are provided. Detailed instructions and link to BOM can be found in [these slides](https://docs.google.com/presentation/d/1R9Z0mCOPYOkJPzbJNwtG9fEYhSLC97248hX_nJxPLbI/edit?usp=sharing): [https://docs.google.com/presentation/d/1R9Z0mCOPYOkJPzbJNwtG9fEYhSLC97248hX_nJxPLbI/edit?usp=sharing](https://docs.google.com/presentation/d/1R9Z0mCOPYOkJPzbJNwtG9fEYhSLC97248hX_nJxPLbI/edit?usp=sharing)
 
 ### Latest Updates
-- Released PCB + CAD files
-- Firmware + software coming soon
+- Released PCB + CAD files + Firmware
+- Unity software coming soon
 
 ### Authors
 [Alexa F. Siu](http://alexasiu.com), Eric J. Gonzalez, Shenli Yuan, Jason B. Ginsberg, and Sean Follmer
