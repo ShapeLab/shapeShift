@@ -21,6 +21,9 @@ CAD, PCB, firmware and software files are provided. Detailed instructions and li
 ### Authors
 [Alexa F. Siu](http://alexasiu.com), Eric J. Gonzalez, Shenli Yuan, Jason B. Ginsberg, and Sean Follmer
 
+### Contact
+Raise a new [issue](https://github.com/ShapeLab/shapeShift/issues) or contact me at afsiu@stanford.edu
+
 <br>
 
 <p align="center">
