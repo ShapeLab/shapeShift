@@ -91,7 +91,6 @@ void setup() {
 }
 
 void loop() {
-
   // read any messages from RS485
   readMSG();
 

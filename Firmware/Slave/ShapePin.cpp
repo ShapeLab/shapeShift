@@ -790,6 +790,8 @@ void ShapePin::CheckSwitch ( void ) {
 void ShapePin::Stop ( void ) {
   Move(DOWN, 0);
   isTraveling = false;
+  // change states to not moving
+  currentPinState = IDLE;
 }
 
 
